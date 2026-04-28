@@ -1,0 +1,16 @@
+{
+    "name": "EntityController.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:01a18008febd3fb40804ac1d8183e892"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
